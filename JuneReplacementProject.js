@@ -28,17 +28,17 @@ module.exports = {
                         )
                 }
                 // check if June is mentioned in title
-                if (archive.mspa.story[pageString].title.includes('John:')) {
+                if (archive.mspa.story[pageString].title.includes('John')) {
                     archive.mspa.story[pageString].title =
                         archive.mspa.story[pageString].title.replace(
-                            "John: ", 
-                            "June: "
+                            "John", 
+                            "June"
                         )
                 }else if (archive.mspa.story[pageString].title.includes('JOHN')) { 
                     archive.mspa.story[pageString].title =
                         archive.mspa.story[pageString].title.replace(
-                            "JOHN: ", 
-                            "JUNE: "
+                            "JOHN", 
+                            "JUNE"
                         )
                 } 
             }
