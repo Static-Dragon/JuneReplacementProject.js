@@ -13,6 +13,7 @@ Now, just move `JuneReplacementProject.js` into the mods folder it just opened.
 NOTE: You must have the v2 or higher of the Unofficial Homestuck Collection, as the older one does not support mods.
 
 ###Credit:
+
 Credit to SeymourSchlong's [JohnsErection Mod](https://github.com/SeymourSchlong/JohnsErection) for giving me a decent starting point
 
 
