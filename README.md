@@ -14,4 +14,6 @@ NOTE: You must have the v2 or higher of the Unofficial Homestuck Collection, as 
 
 ###Credit:
 Credit to SeymourSchlong's [JohnsErection Mod](https://github.com/SeymourSchlong/JohnsErection) for giving me a decent starting point
+
+
 Credit to [Emberflux](https://twitter.com/Emberflux) for the idea
