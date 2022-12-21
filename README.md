@@ -2,7 +2,7 @@
 A mod for the Unofficial Homestuck Collection
 
 ### What it does
-For every pesterlog/dialoglog that June is referenced, her deadname won't be used  
+For every pesterlog/dialog that June is referenced, her deadname won't be used  
 
 
 ### How to install  
